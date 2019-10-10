@@ -3,7 +3,7 @@
 Plugin Name: Auto Update Everything
 Plugin URI: http://www.kindredwebconsuting.com 
 Description: Auto Updates Core, Plugins, Themes and Cancels the email that sends
-Version: 0.1
+Version: 1.0
 Author: Chris Kindred
 Author URI: http://www.kindredwebconsulting.com
 License: GPL2
